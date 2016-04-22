@@ -1,0 +1,245 @@
+@font-face
+{
+    font-family: avenir;
+    src: url( "avenir.ttf" );
+}
+body
+{
+    margin: 0;
+    font-family: century gothic;
+    color: #876217;
+    min-width: 900px;
+}
+a
+{
+    color: inherit;
+    text-decoration: none;
+}
+.slider a:hover img , .padded a:hover img
+{
+    opacity: .9;
+}
+.right a:hover  img
+{
+    opacity: inherit;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+audio
+{
+	height: 350px;
+	width: 50%;
+	max-width: 800px;
+	background-color: #e5d6ba;
+	background-image: url( images/musicTransparent.png );
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+#header
+{
+    overflow: hidden;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* IE/Edge */
+    user-select: none;
+    cursor: default;
+}
+#headerTitle
+{
+    background-color: #5b4411;
+    float: left;
+    color: #e5d6ba;
+    padding: 30px 50px 30px 20px;
+    font-size: 2em;
+    box-shadow: 0px 0px 7px rgba( 0 , 0 , 0 , 0.75 );
+    margin-bottom: 7px;
+}
+#headerBar
+{
+    background-color: #876217;
+    height: 3.5em;
+}
+#human
+{
+    font-size: 10em;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* IE/Edge */
+    user-select: none;
+    cursor: default;
+    font-family: avenir;
+}
+#galleryButton
+{
+    margin-top: 50px;
+    overflow: hidden;
+    width: 145px;
+}
+#galleryButton div
+{
+    float: left;
+}
+#galleryButton div:nth-child(1) , #galleryButton div:nth-child(3)
+{
+    width: 10px;
+    height: 50px;
+    background-color: #876217;
+    border-top: 6px solid white;
+}
+#galleryButton div:nth-child(2)
+{
+    font-size: 1.5em;
+    width: 125px;
+    padding: 16px 0;
+    background-color: #e5d6ba;
+    text-decoration: inherit;
+}
+#bodyWrapping
+{
+    padding: 0 40px;
+}
+h1
+{
+    font-weight: lighter;
+    font-size: 2.3em;
+    margin: 20px 0;
+}
+.arrow
+{
+    width: 70px;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.centerWrapper
+{
+    padding-left: 20px;
+    position: relative;
+}
+.slider
+{
+    position: relative;
+    margin-bottom: 50px;
+}
+.slider .arrow:first-child
+{
+    left: 0;
+    background-image: url(images/arrow-left.png);
+}
+.slider .arrow:last-child
+{
+    right: 0;
+    background-image: url(images/arrow-right.png);
+}
+.center
+{
+    margin: 0 70px;
+    padding-left: 20px;
+    position: relative;
+    overflow: hidden;
+}
+.centerContainer
+{
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    transition: .5s;
+}
+.slide
+{
+    width: 25%;
+    float: left;
+}
+.slide div
+{
+    padding-right: 20px;
+}
+.slide.left
+{
+    margin-left: -100%;
+}
+img
+{
+    max-width: 100%;
+}
+#gallerySection
+{
+    overflow: hidden;
+    padding-left: 30px;
+}
+.galleryPiece
+{
+    float: left;
+}
+@media screen and ( min-width: 800px )
+{
+    .galleryPiece
+    {
+        width: 25%;
+    }
+}
+@media screen and ( min-width: 600px ) and ( max-width: 799px )
+{
+    .galleryPiece
+    {
+        width: 33%;
+    }
+}
+@media screen and ( min-width: 400px ) and ( max-width: 599px )
+{
+    .galleryPiece
+    {
+        width: 50%;
+    }
+}
+@media screen and ( max-width: 400px )
+{
+    .galleryPiece
+    {
+        width: 100%;
+    }
+}
+.galleryPiece .padded
+{
+    padding-right: 30px;
+}
+h3
+{
+    font-weight: normal;
+    margin-top: 0;
+}
+.mainPiece
+{
+    max-height: 700px;
+    max-width: 100%;
+    margin: 5px;
+    vertical-align: top;
+}
+#descriptionHeader
+{
+    overflow: hidden;
+}
+h2 img
+{
+    height: 1.3em;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+p
+{
+    font-size: 1.3em;
+    line-height: 150%;
+    text-indent: 2em;
+    margin-top: 0;
+}
