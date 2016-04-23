@@ -1,0 +1,402 @@
+[18-Mar-2016 16:01:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home4/ramzi/public_html/art/upload.php on line 2
+[18-Mar-2016 16:01:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/ramzi/public_html/art/upload.php on line 30
+[18-Mar-2016 16:01:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/upload.php on line 31
+[18-Mar-2016 16:01:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/ramzi/public_html/art/upload.php on line 42
+[18-Mar-2016 16:01:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/upload.php on line 43
+[18-Mar-2016 16:02:10 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home4/ramzi/public_html/art/upload.php on line 2
+[18-Mar-2016 16:02:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/ramzi/public_html/art/upload.php on line 30
+[18-Mar-2016 16:02:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/upload.php on line 31
+[18-Mar-2016 16:02:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/ramzi/public_html/art/upload.php on line 42
+[18-Mar-2016 16:02:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/upload.php on line 43
+[18-Mar-2016 16:04:56 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/updateAll.php on line 5
+[18-Mar-2016 16:04:56 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/updateAll.php on line 5
+[18-Mar-2016 16:04:56 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/updateAll.php on line 5
+[18-Mar-2016 16:04:56 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/updateAll.php on line 23
+[18-Mar-2016 16:14:51 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:14:51 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:14:51 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:14:51 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/addPiece.php on line 72
+[18-Mar-2016 16:17:57 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:57 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:57 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:57 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/addPiece.php on line 72
+[18-Mar-2016 16:17:58 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:58 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:58 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:17:58 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/addPiece.php on line 72
+[18-Mar-2016 16:25:47 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:25:47 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:25:47 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:25:47 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/addPiece.php on line 72
+[18-Mar-2016 16:26:22 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:26:22 America/Chicago] PHP Warning:  include(editHomePage.php): failed to open stream: No such file or directory in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:26:22 America/Chicago] PHP Warning:  include(): Failed opening 'editHomePage.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/ramzi/public_html/art/addPiece.php on line 71
+[18-Mar-2016 16:26:22 America/Chicago] PHP Fatal error:  Call to undefined function editHomepage() in /home4/ramzi/public_html/art/addPiece.php on line 72
+[21-Mar-2016 00:03:50 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home4/ramzi/public_html/art/addPiece.php on line 52
+[21-Mar-2016 00:03:50 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/pieces/thumbnails/0House_sparrow04.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:53
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(53): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 53
+[21-Mar-2016 00:08:55 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home4/ramzi/public_html/art/addPiece.php on line 53
+[21-Mar-2016 00:08:55 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/pieces/thumbnails/0cat-wallpaper-38.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[21-Mar-2016 00:10:22 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home4/ramzi/public_html/art/addPiece.php on line 53
+[21-Mar-2016 00:10:22 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/pieces/thumbnails/0dbe5f0727b69487016ffd67a6689e75a.jpeg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[21-Mar-2016 00:10:57 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/pieces/thumbnails/1maxresdefault.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[21-Mar-2016 00:11:59 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/artshow/pieces/thumbnails/0birds-01.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[21-Mar-2016 00:14:34 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/artshow/pieces/thumbnails/1cat-wallpaper-38.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[21-Mar-2016 00:15:40 America/Chicago] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home4/ramzi/public_html/artshow/pieces/thumbnails/1House_sparrow04.jpg': No such file or directory @ error/blob.c/OpenBlob/2617' in /home4/ramzi/public_html/art/addPiece.php:54
+Stack trace:
+#0 /home4/ramzi/public_html/art/addPiece.php(54): Imagick->__construct('/home4/ramzi/pu...')
+#1 {main}
+  thrown in /home4/ramzi/public_html/art/addPiece.php on line 54
+[22-Mar-2016 13:33:40 America/Chicago] PHP Fatal error:  Call to a member function getImageHeight() on a non-object in /home4/ramzi/public_html/art/addPiece.php on line 62
+[22-Mar-2016 13:37:45 America/Chicago] PHP Fatal error:  Call to a member function getImageWidth() on a non-object in /home4/ramzi/public_html/art/addPiece.php on line 63
+[22-Mar-2016 14:02:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/createPiecePage.php on line 13
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/Git.pm): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/backup.iptables.1444711276): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/quota.user): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/razor-agent.log): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/Git.pm): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/backup.iptables.1444711276): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/quota.user): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/razor-agent.log): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/Git.pm): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/backup.iptables.1444711276): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/quota.user): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/razor-agent.log): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/Git.pm): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/backup.iptables.1444711276): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/quota.user): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[22-Mar-2016 14:26:42 America/Chicago] PHP Warning:  unlink(/razor-agent.log): Permission denied in /home4/ramzi/public_html/art/nuke.php on line 11
+[20-Apr-2016 13:10:53 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:10:53 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:10:53 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:10:53 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:11:23 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:11:23 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:11:23 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:11:23 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:11:40 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:11:40 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:11:40 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:11:40 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:12:09 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:12:09 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:12:09 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:12:09 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:12:30 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:12:30 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:12:30 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:12:30 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:12:49 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:12:49 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:12:49 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:12:49 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:13:21 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:13:21 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:13:21 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:13:21 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:14:22 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:14:22 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:14:22 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:14:22 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:14:40 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:14:40 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:14:40 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:14:40 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:14:57 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:14:57 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:14:57 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:14:57 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:18:18 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:18:18 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:18:18 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:18:18 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:18:51 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:18:51 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:18:51 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:18:51 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:00 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:01 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:02 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:03 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:21:10 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:24:54 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:28:00 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:28:00 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:28:00 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:28:00 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:28:58 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:28:58 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:28:58 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:28:58 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:29:44 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:34:07 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:36:01 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:36:01 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:36:01 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:36:01 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:37:01 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:37:01 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:37:01 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:37:01 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:37:28 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:37:28 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:37:28 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:37:28 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:38:08 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:38:08 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:38:08 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:38:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:38:31 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:38:31 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:38:31 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:38:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 13:54:53 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 13:54:53 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 13:54:53 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 13:54:53 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:05:43 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:05:43 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:05:43 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:05:43 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:08:31 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:08:31 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:08:31 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:08:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:10:27 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:10:27 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:10:27 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:10:27 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:11:30 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:11:30 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:11:30 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:11:30 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:11:40 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:11:40 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:11:40 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:11:40 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:13:39 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:13:39 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:13:39 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:13:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:16:15 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:16:15 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:16:15 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:16:15 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:16:59 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:16:59 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:16:59 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:16:59 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:17:43 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:17:43 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:17:43 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:17:43 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:19:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:21:39 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:21:39 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:21:39 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:21:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:23:13 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:23:13 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:23:13 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:23:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:32:16 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:32:16 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:32:16 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:32:16 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:33:35 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:33:35 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:33:35 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:33:35 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:35:26 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:35:26 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:35:26 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:35:26 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:37:49 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:37:49 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:37:49 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:37:49 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:39:39 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:39:39 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:39:39 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:39:39 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:40:51 America/Chicago] PHP Warning:  Missing argument 4 for editClassPage(), called in /home4/ramzi/public_html/art/addPiece.php on line 107 and defined in /home4/ramzi/public_html/art/editClassPage.php on line 2
+[20-Apr-2016 14:40:51 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:40:51 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:40:51 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:46:10 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 14:47:29 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 14:47:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 14:47:29 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:47:29 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:47:29 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:48:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 14:48:56 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:48:56 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:48:56 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 14:50:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 14:50:36 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 14:50:36 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 14:50:36 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:02:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:02:11 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:02:11 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:02:11 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:05:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:05:01 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:05:01 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:05:01 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:09:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:09:23 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:09:23 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:09:23 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:13:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:13:27 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:13:27 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:13:27 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:18:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:18:46 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:18:46 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:18:46 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:19:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:19:24 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:19:24 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:19:24 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:19:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:19:35 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:19:35 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:19:35 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:21:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:21:06 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:21:06 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:21:06 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:21:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:21:46 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:21:46 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:21:46 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:21:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:21:58 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:21:58 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:21:58 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:22:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:22:30 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:22:30 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:22:30 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
+[20-Apr-2016 15:22:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ramzi/public_html/art/addPiece.php on line 107
+[20-Apr-2016 15:22:41 America/Chicago] PHP Warning:  fopen(pages/): failed to open stream: Is a directory in /home4/ramzi/public_html/art/editClassPage.php on line 77
+[20-Apr-2016 15:22:41 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 78
+[20-Apr-2016 15:22:41 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/ramzi/public_html/art/editClassPage.php on line 79
