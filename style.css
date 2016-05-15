@@ -3,10 +3,15 @@
     font-family: avenir;
     src: url( "avenir.ttf" );
 }
+@font-face
+{
+    font-family: Century Gothic;
+    src: url( "century.ttf" );
+}
 body
 {
     margin: 0;
-    font-family: century gothic;
+    font-family: Century Gothic;
     color: #876217;
     min-width: 900px;
 }
